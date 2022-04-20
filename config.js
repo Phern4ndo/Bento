@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.es',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Plex',
+			icon: 'film',
+			link: 'https://www.plex.tv/',
 		},
 		{
 			id: '5',
