@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '94f7ec016c1eb9b0748e3f9a177c1191', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '40.351619',
+	defaultLongitude: '-1.110562',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://www.deepl.com/translator',
 				},
 				{
+					name: 'Git',
+					link: 'https://github.com/',
+				},
+				{
+					name: 'Imgur',
+					link: 'https://imgur.com/',
+				},
+				{
 					name: '5eTools',
-					link: 'https://5e.tools/',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://5e.tools',
 				},
 			],
 		},
