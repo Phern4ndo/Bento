@@ -135,16 +135,16 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'Wrench',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'DeepL',
+					link: 'https://www.deepl.com/translator',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '5eTools',
+					link: 'https://5e.tools/',
 				},
 				{
 					name: 'Oldies',
