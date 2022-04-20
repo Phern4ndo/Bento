@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Fer',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -29,7 +29,7 @@ const CONFIG = {
 	weatherKey: '94f7ec016c1eb9b0748e3f9a177c1191', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	language: 'es', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '40.351619',
