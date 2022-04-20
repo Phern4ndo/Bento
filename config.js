@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Fer',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'graduation-cap',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Ayudica',
+					link: 'https://ayudica.unizar.es/agente',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Identidad',
+					link: 'https://identidad.unizar.es',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'PortalCorreo',
+					link: 'https://portalcorreo.unizar.es',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Adelfa',
+					link: 'https://adelfa.unizar.es',
 				},
 			],
 		},
