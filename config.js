@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://imgur.com/',
 				},
 				{
-					name: '5eTools',
-					link: 'https://5e.tools',
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com/',
 				},
 			],
 		},
@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Ayudica',
-					link: 'https://ayudica.unizar.es/agente',
+					name: 'CAU',
+					link: 'https://cau.unizar.es/agente',
 				},
 				{
 					name: 'Identidad',
